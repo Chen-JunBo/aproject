@@ -8,4 +8,8 @@
 
 ### 2020.03.16
 
-*创建实体类Student，Teacher，Course，SC
+* 创建实体类Student，Teacher，Course，SC
+
+### 2020.03.22
+
+* 添加Repository
