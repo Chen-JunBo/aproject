@@ -15,5 +15,6 @@
 * 添加Repository
 
 ###2020.06.26
-*添加新的实体类User和Direction
-*修改原有实体类
+
+* 添加新的实体类User和Direction
+* 修改原有实体类
