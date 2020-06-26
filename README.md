@@ -18,3 +18,7 @@
 
 * 添加新的实体类User和Direction
 * 修改原有实体类
+
+### 2020.06.26
+
+* 编写repository层
