@@ -2,7 +2,13 @@ package com.example.aproject.service;
 
 
 
+import com.example.aproject.entity.SC;
+import com.example.aproject.entity.Student;
+import com.example.aproject.entity.Teacher;
+import com.example.aproject.entity.User;
+import com.example.aproject.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

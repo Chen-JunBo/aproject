@@ -2,9 +2,8 @@ package com.example.aproject.service;
 
 
 
-import com.example.aproject.entity.Course;
-import com.example.aproject.entity.Direction;
-import com.example.aproject.entity.Teacher;
+import com.example.aproject.component.NeedComponent;
+import com.example.aproject.entity.*;
 import com.example.aproject.repository.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,7 +25,7 @@ public class TeacherService {
     @Autowired
     CourseRepository cr;
     @Autowired
-    RequestComponent rc;
+    NeedComponent rc;
     @Autowired
     StudentRepository sr;
     @Autowired
