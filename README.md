@@ -22,3 +22,8 @@
 ### 2020.06.26
 
 * 编写repository层
+
+### 2020.06.27
+
+* 添加component
+* 添加service
